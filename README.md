@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Anisha Gupta! <img src="https://realwordsweb.com/wp-content/uploads/2019/06/20190612_145529-ANIMATION.gif" width="50"></h2>
 <img align='right' src="https://thumbs.dreamstime.com/b/woman-laptop-studying-working-concept-table-books-lamp-coffee-cup-vector-illustration-flat-style-154613128.jpg" width="230">
-<p><em>Full Stack Developer at <a href="https://www.momenttext.com/">MomentText AI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full Stack Developer at <a href="">Clover Bay Technologies Private Limited</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 👇 Hit in your console or terminal to connect with me.
