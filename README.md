@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anisha Gupta! <img src="https://realwordsweb.com/wp-content/uploads/2019/06/20190612_145529-ANIMATION.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Anisha Gupta! </h2>
 <img align='right' src="https://thumbs.dreamstime.com/b/woman-laptop-studying-working-concept-table-books-lamp-coffee-cup-vector-illustration-flat-style-154613128.jpg" width="230">
 <p><em>Associate Front End Engineer at <a href="https://www.cloverbaytechnologies.com/" target="_blank">Clover Bay Technologies Private Limited</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
